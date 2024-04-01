@@ -1,0 +1,27 @@
+{
+  "name": "atm-simulation",
+  "version": "1.0.3",
+  "description": "This is a simple command line based ATM simulation program that simulates common ATM features.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phaizi/atm-simulation.git"
+  },
+  "author": "Faizan Mansur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phaizi/atm-simulation/issues"
+  },
+  "homepage": "https://github.com/phaizi/atm-simulation#readme",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
